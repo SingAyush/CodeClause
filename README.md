@@ -1,4 +1,4 @@
-# Code Clause
+# Task Manager
 
 This project is a Task Manager built with Next.js .It serves as a demonstration of skills in modern web development.
 
